@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Webpage Design</title>
+    <title>ABHISHEK - Stylish Webpage</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <div class="logo">
+            <img src="abhishek-logo.png" alt="ABHISHEK Logo">
+        </div>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
@@ -21,22 +23,18 @@
 
     <main>
         <section class="content">
-            <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget tellus urna.</p>
+            <h1>Welcome to ABHISHEK</h1>
+            <p>Your source for stylish web designs.</p>
         </section>
 
         <section class="content">
-            <h2>Services</h2>
-            <ul>
-                <li>Web Design</li>
-                <li>Graphic Design</li>
-                <li>SEO Optimization</li>
-            </ul>
+            <h2>About Us</h2>
+            <p>We are a creative web design agency committed to delivering stunning and innovative websites.</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2023 MyWebsite.com</p>
+        <p>&copy; 2023 ABHISHEK. All rights reserved.</p>
     </footer>
 </body>
 </html>
